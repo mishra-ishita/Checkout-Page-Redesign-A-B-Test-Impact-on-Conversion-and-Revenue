@@ -14,9 +14,9 @@ Users were split into two groups and shown either Version A or Version B. Their 
 
 ## Key Findings
 - Around 19 percent of users dropped between cart and checkout, showing a clear issue at this step.
-- Version A performed better than Version B (62.79 percent vs 60.56 percent), meaning fewer users completed purchases in Version B.
+- Version A performed better than Version B (62.79% vs 60.56%), meaning fewer users completed purchases in Version B.
 - Revenue per user increased slightly from ₹903 to ₹919, showing higher spending despite lower conversion.
-- On mobile, conversion dropped more in Version B (64.11 percent to 61.10 percent), indicating a possible mobile experience issue.
+- On mobile, conversion dropped more in Version B (64.11%to 61.10%), indicating a possible mobile experience issue.
 - Users also took longer to convert in Version B (about 64 hours vs 66 hours), suggesting added friction.
 
 ## What this means
