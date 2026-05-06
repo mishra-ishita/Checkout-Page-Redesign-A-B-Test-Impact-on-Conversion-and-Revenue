@@ -13,7 +13,7 @@ Does the new checkout design help increase conversions and revenue, or does it c
 Users were split into two groups and shown either Version A or Version B. Their journey from viewing a product to completing a purchase was tracked and compared across key metrics.
 
 ## Key Findings
-- Around 19 percent of users dropped between cart and checkout, showing a clear issue at this step.
+- Around 19% of users dropped between cart and checkout, showing a clear issue at this step.
 - Version A performed better than Version B (62.79% vs 60.56%), meaning fewer users completed purchases in Version B.
 - Revenue per user increased slightly from ₹903 to ₹919, showing higher spending despite lower conversion.
 - On mobile, conversion dropped more in Version B (64.11%to 61.10%), indicating a possible mobile experience issue.
